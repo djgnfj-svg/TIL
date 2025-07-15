@@ -1,11 +1,12 @@
-Redis
-django 함수형 클래스형 차이
-celery
-인터넷 연결과정
-rdbms
-noSQL
-git
-websocket
-nginx
-docker
-네트워크 기본
+- Redis
+- django 함수형 클래스형 차이
+- celery
+- 인터넷 연결과정
+- rdbms
+- noSQL
+- git
+- websocket
+- nginx
+- docker
+- 네트워크 기본
+- 마이그레이션
